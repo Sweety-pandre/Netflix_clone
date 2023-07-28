@@ -1,0 +1,38 @@
+firebase hosting:
+add a project - project name - firebasetools install in terminal
+
+build > hosting > get started
+
+firebase login - signin to google
+firebase init - to initiate project, run cmd from app's root directory
+
+When you're ready, deploy your web app
+Put your static files (e.g., HTML, CSS, JS) in your app's deploy directory (the default is "public"). Then, run this command from your app's root directory:
+
+firebase deploy
+After deploying, view your app at netflix-clone-1386e.web.app
+
+Need help? Check out the Hosting docs
+
+
+settings > project setting
+
+starting with react app
+clearing part
+installing axious - helps in handling requests n all. replacement of Postman
+cmd - npm i axious
+
+
+
+
+
+npm i react-youtube
+npm i movie-trailer
+
+
+
+HOSTING
+
+gitbash
+firebase login
+public directory - build
